@@ -5,8 +5,6 @@ networks:
     external: true
   owncloud:
     external: false
-volumes:
-
 services:
   nginx:
     build: 
